@@ -1,5 +1,5 @@
 # wazuh-active-response-lab
-Automated Threat Detection and Incident Response using Wazuh SIEM
+Automated Threat Detection and Real-time Incident Response (firewall-drop) simulation against SSH brute-force attacks using Wazuh SIEM.
 
 Bu layihədə mərkəzləşdirilmiş loq monitorinqi, real zamanlı kibertəhlükəsizlik analizi və avtomatik təhdidlərin qarşısının alınması üçün Wazuh SIEM mühiti qurulmuşdur. Layihə çərçivəsində Linux agentlərinə qarşı edilən aqressiv SSH Brute-Force hücumları (Hydra ilə) simulyasiya edilmiş, Wazuh Server tərəfindən Rule Level 10 təhlükə səviyyəsi ilə uğurla analiz olunmuş və Active Response (Firewall-Drop) mexanizmi işə salınaraq hücumçu real zamanlı olaraq şəbəkə səviyyəsində bloklanmışdır.
 
