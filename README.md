@@ -33,11 +33,10 @@ Konfiqurasiya və Sənədləşdirmə (Implementation)
 Əldə Olunan Nəticələr və Sübutlar (Key Results & Artifacts)
 
 
-Sübut 1 (Hücum): Hücumçunun bağlantısının kəsildiyinin sübutu.
+Sübut 1 (Hücum): Hücumçu Hydra ilə SSH Brute-Force hücumu edir.
 
-<img width="632" height="220" alt="Screenshot 2026-06-06 223608" src="https://github.com/user-attachments/assets/3266f22f-239b-4016-baee-67eb1b3040fd" />
+<img width="632" height="220" alt="Screenshot 2026-06-06 223608" src="https://github.com/user-attachments/assets/f26b526e-ac9f-4a4d-bdd3-03424186accb" />
 
-Hydra-nın all children were disabled due to many connection errors xətası ilə dayanmasını göstərir.
 
 
 
