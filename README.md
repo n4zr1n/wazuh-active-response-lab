@@ -24,6 +24,7 @@ Wazuh Server daxil olan loqları süzgəcdən keçirir. Ard-arda gələn uğursu
 Aktiv Müdafiə (Active Response): 
 Server əvvəlcədən təyin olunmuş ossec.conf qaydasına əsasən qurban agentə əmr göndərir. Qurban maşındakı agent firewall-drop skriptini işə salaraq hücumçu IP-ni Linux-un daxili iptables firewall siyahısına DROP qaydası ilə əlavə edir. Hücumçunun şəbəkə bağlantısı (Ping və SSH daxil olmaqla) 10 dəqiqəlik kəsilir.
 
+
 Konfiqurasiya və Sənədləşdirmə (Implementation)
 
 <img width="550" height="128" alt="Screenshot 2026-06-06 221955" src="https://github.com/user-attachments/assets/97a5b9ca-ee8e-4ace-b34f-08cf11245484" />
@@ -31,11 +32,13 @@ Konfiqurasiya və Sənədləşdirmə (Implementation)
 
 Əldə Olunan Nəticələr və Sübutlar (Key Results & Artifacts)
 
+
 Sübut 1 (Hücum): Hücumçunun bağlantısının kəsildiyinin sübutu.
 
 <img width="632" height="220" alt="Screenshot 2026-06-06 223608" src="https://github.com/user-attachments/assets/3266f22f-239b-4016-baee-67eb1b3040fd" />
 
 Hydra-nın all children were disabled due to many connection errors xətası ilə dayanmasını göstərir.
+
 
 
 Sübut 2 (Yerli Müdafiə): Agent maşında active-responses.log və iptables -L -n -v əmrlərinin çıxışında hücumçu IP bloklanır və ping getmir.
@@ -47,6 +50,7 @@ Sübut 2 (Yerli Müdafiə): Agent maşında active-responses.log və iptables -L
 
 
 <img width="589" height="135" alt="Screenshot 2026-06-06 224253" src="https://github.com/user-attachments/assets/afe9e085-33bd-4c9b-8132-d31d9caf9037" />
+
 
 
 Sübut 3 (SOC Dashboard Analizi): Wazuh Dashboard-da data.command:
