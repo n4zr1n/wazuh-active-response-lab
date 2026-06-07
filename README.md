@@ -45,7 +45,7 @@ Sübut 2 (Yerli Müdafiə): Agent maşında active-responses.log və iptables -L
 <img width="1917" height="519" alt="Screenshot 2026-06-06 223744" src="https://github.com/user-attachments/assets/453f9dd4-f5e1-4124-b2e3-8bf7a126fc31" />
 
 
-<img width="742" height="210" alt="Screenshot 2026-06-06 223809" src="https://github.com/user-attachments/assets/c7d684f2-10c1-4056-b533-672b15871c4f" />
+<img width="742" height="210" alt="Screenshot 2026-06-06 223809" src="https://github.com/user-attachments/assets/be49872d-f7df-4c70-9841-7e87baf8e84c" />
 
 
 <img width="589" height="135" alt="Screenshot 2026-06-06 224253" src="https://github.com/user-attachments/assets/afe9e085-33bd-4c9b-8132-d31d9caf9037" />
