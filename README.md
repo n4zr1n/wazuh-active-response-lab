@@ -56,4 +56,4 @@ Sübut 3 (SOC Dashboard Analizi): Wazuh Dashboard-da data.command:
 
 <img width="1919" height="1015" alt="Screenshot 2026-06-06 231247" src="https://github.com/user-attachments/assets/cf3356a0-8495-4158-9d5e-6a9bdffd8bc2" />
 
-İnsidentin SIEM panelində Rule 5551 (Level 10) və MITRE ATT&CK T1110 (Brute Force) etiketi ilə uğurla qeydə alınır.
+İnsident SIEM panelində Rule 5551 (Level 10) və MITRE ATT&CK T1110 (Brute Force) etiketi ilə uğurla qeydə alınır.
